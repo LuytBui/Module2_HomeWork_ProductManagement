@@ -14,7 +14,7 @@ public class ProductManager {
 5.	Xây dựng hàm sắp xếp các sản phẩm trong mảng theo thứ tự A->Z
         public static void sortProductArrayByName(Product[] products)
 6.	Xây dựng hàm cập nhật sản phẩm
-
+        public static void editProductInfoPrompt(Product[] productArr)
      */
 
     static Scanner sc = new Scanner(System.in);
